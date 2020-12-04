@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grimi/static/css/main.e013f01f.chunk.css",
+    "main.js": "/grimi/static/js/main.cae7201e.chunk.js",
+    "main.js.map": "/grimi/static/js/main.cae7201e.chunk.js.map",
+    "runtime-main.js": "/grimi/static/js/runtime-main.503f841b.js",
+    "runtime-main.js.map": "/grimi/static/js/runtime-main.503f841b.js.map",
+    "static/js/2.e9fc3a6a.chunk.js": "/grimi/static/js/2.e9fc3a6a.chunk.js",
+    "static/js/2.e9fc3a6a.chunk.js.map": "/grimi/static/js/2.e9fc3a6a.chunk.js.map",
+    "static/js/3.4f03ff63.chunk.js": "/grimi/static/js/3.4f03ff63.chunk.js",
+    "static/js/3.4f03ff63.chunk.js.map": "/grimi/static/js/3.4f03ff63.chunk.js.map",
+    "index.html": "/grimi/index.html",
+    "static/css/main.e013f01f.chunk.css.map": "/grimi/static/css/main.e013f01f.chunk.css.map",
+    "static/js/2.e9fc3a6a.chunk.js.LICENSE.txt": "/grimi/static/js/2.e9fc3a6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.503f841b.js",
+    "static/js/2.e9fc3a6a.chunk.js",
+    "static/css/main.e013f01f.chunk.css",
+    "static/js/main.cae7201e.chunk.js"
+  ]
+}
